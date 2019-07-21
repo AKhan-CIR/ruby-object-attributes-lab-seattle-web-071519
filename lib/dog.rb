@@ -1,3 +1,3 @@
 class Dog 
-  instantiate(name,breed)
+  def instantiate(name,breed)
 end
