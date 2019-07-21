@@ -1,5 +1,5 @@
 class Person
-def initialize(name,job)
+def instantiate(name,job)
   @name
   @job
 end
