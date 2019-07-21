@@ -1,5 +1,5 @@
 class Dog 
-  def instantiate(name,breed)
+  def initialize(name,breed)
     @name
     @breed
   end
